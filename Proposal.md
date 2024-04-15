@@ -1,9 +1,17 @@
 # Choose-Your-Own-Adventure-Final
 ## [Repository Link](https://github.com/KDSchool13/PFDA-FINAL.git)
 ## Description:
-Project will be a choose your own adventure game that creates multiple scenarios based off of user input. 
+Project will be a choose your own adventure game that directs user through multiple scenarios based off of user input. 
 ## Features:
-## Outcomes:
+Screen object to print story scenarios and prompts on.
+User input to determine direction of story, either through mouse or type. 
+Images and design elements to accompany story - could use pygame. 
+## Challenges:
+Need to learn how to display images on a screen object, print text on a screen object, and take user input on multiple choice questions. 
+## Outcomes: 
 ### Ideal Outcome:
+When the code is run, a window pops up and a story prompt is visible accompanied with an image above, 
+the user will be able to click between two or more choices and determine the outcome of the story.
 ### Minimal Viable Outcome: 
+The game is played in the terminal of VS code with no images, but will display story prompts and ask for user input, determining the direction of the story. 
 ## Milestones:
