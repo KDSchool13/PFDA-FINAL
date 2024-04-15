@@ -16,3 +16,12 @@ the user will be able to click between two or more choices and determine the out
 ### Minimal Viable Outcome: 
 The game is played in the terminal of VS code with no images, but will display story prompts and ask for user input, determining the direction of the story. 
 ## Milestones:
+### Week 1:
+Story and different outcomes thought of and written out.
+Minimal Viable Outcome Written or majorly worked on. 
+### Week 2:
+Minimal Viable Outcome finished if not finished in Week 1. 
+Research into pygame docs and review previous c08 code for direction.
+Start Evolving code to behave more like Ideal Outcome.
+### Week 3:
+Ideal Outcome finished and project turned in by May 6th. 
