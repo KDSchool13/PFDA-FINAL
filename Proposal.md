@@ -2,6 +2,7 @@
 ## [Repository Link](https://github.com/KDSchool13/PFDA-FINAL.git)
 ## Description:
 Project will be a choose your own adventure game that directs user through multiple scenarios based off of user input. 
+Choose-your-own-adventure games are a fun and interactive form of creative writing through code, which I think would fall under the umbrella of digital arts & media.
 ## Features:
 Screen object to print story scenarios and prompts on.
 User input to determine direction of story, either through mouse or type. 
