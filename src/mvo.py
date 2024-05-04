@@ -1,9 +1,9 @@
-import random 
+
 
 def main():
-    with open("story.txt", 'r') as quotesdb:
-        quotes_list = list(quotesdb)
-    print(random.choice(quotes_list), end='')
+    with open("story.txt", 'r', encoding="utf-8") as adventure_story:
+        story_snippet = adventure_story.readlines()[0:1].pop()
+    print(f"{story_snippet}".strip('[]').rstrip())
 
 
 
