@@ -86,6 +86,7 @@ def reef_or_air():
             "He looks at you with great concern as you describe ponds, mermaids, and fish.")
       
 def main():
+   """Calls function rock_or_swim to start the story."""
    rock_or_swim()
 
 if __name__ == "__main__":
